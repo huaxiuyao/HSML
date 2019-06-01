@@ -1,3 +1,3 @@
-# hsml_2019
+# HSML
 
 The code is for icml 2019 paper. Will update until the approval of collaborating corporations.
