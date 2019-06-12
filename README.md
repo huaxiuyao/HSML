@@ -3,6 +3,8 @@
 ## About
 Source code<a href="#note1" id="note1ref"><sup>1</sup></a> of the paper [Hierarchically Structured Meta-learning](https://arxiv.org/abs/1905.05301)
 
+For continual version of this algorithm, please refer to this <a href="#note1" id="note1ref"></a> [repo](https://github.com/huaxiuyao/HSML_Dynamic).
+
 If you find this repository useful in your research, please cite the following paper:
 ```
 @inproceedings{yao2019hierarchically,
